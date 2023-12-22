@@ -1,4 +1,4 @@
-﻿# 335FinalProject
+﻿# Barbell Club Form
 
 Members: Chris Giang (117937671), Ryan Zheng (117917512), Jordan Maggin (117796230)
 
